@@ -1,6 +1,6 @@
 
 TRY IT OUT
- rakshamuth.github.io
+ http://rakshamuth.github.io/PearlHacks/
 
 http://pearlhacks.devpost.com/submissions/34715-protection-connection
 
